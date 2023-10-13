@@ -2,6 +2,7 @@
 
 ## Introduction:
 The objective is to create a robust predictive model using the provided dataset. And to analyze various factors that impact house prices, identify meaningful patterns, and build a model that can generate reliable price predictions. With the data-driven solution, In order to empower Wazobia Real Estate Limited to make informed pricing decisions, enhance its competitiveness in the market, and deliver enhanced value to its customers.
+
 Data Exploration:
 
 During the data exploration phase, I employed various techniques to gain insights into the dataset. For the numerical variables, I utilized descriptive statistics, box plots, and distribution plots. Descriptive statistics helped me understand the central tendency, spread, and distribution of the numerical data. The box plots provided a visual representation of the data's quartiles, identifying potential outliers and the overall distribution. Additionally, distribution plots offered a clear visualization of how the data was distributed, indicating symmetry or skewness.
