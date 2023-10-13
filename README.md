@@ -42,7 +42,7 @@ By employing these performance metrics, I was able to comprehensively evaluate t
 
 
 ## Business Impact and Recommendations:
-This house pricing predictions enable real estate investors to make well-informed decisions when purchasing or selling properties. They can identify undervalued properties and invest in areas with potential growth, maximizing their return on investment.
+These house pricing predictions enable real estate investors to make well-informed decisions when purchasing or selling properties. They can identify undervalued properties and invest in areas with potential growth, maximizing their return on investment.
  
 Real estate agents and property sellers can use house price predictions to set competitive listing prices. By pricing properties more accurately, they can attract more potential buyers and close deals faster.
 Financial institutions can use house price predictions for risk assessment in mortgage lending. Accurate predictions help identify properties that may be overvalued, reducing the risk of loan defaults.
