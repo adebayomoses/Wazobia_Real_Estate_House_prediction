@@ -27,7 +27,7 @@ To predict housing prices, I employed two models, namely Linear Regression and R
 The decision to choose Linear Regression over Random Forest was driven by several factors. First, the Linearity Assumption was met, implying that the relationship between the independent variables and the target variable (housing prices) can be represented by a linear model. This aligns well with the nature of the data, making Linear Regression a suitable choice.
 Secondly, there was no evidence of Multicollinearity among the variables present in the dataset. Fortunately, the data showed no such issues, ensuring the reliability of the Linear Regression model.
 Lastly, I carefully examined the data for Outliers and Influential Points, which can exert a disproportionate impact on the model's performance. Thankfully, the dataset demonstrated the absence of such extreme values, further strengthening the validity of the Linear Regression model.
-Y_price  =β_(0_intercept )+β_(1_(loc_kano) )+ β_(2_(loc_akwa_ ibom) )+⋯+ β_(48_bathroom )+ β_(49_(parking_space) )
+Y_price  =β_(0_intercept )+β_(1_(loc_kano) )+ β_(2_(loc_akwa_ ibom) )+⋯+ β_(48_bathroom )+ β_(49_(parking_space))
 
 ## Interpretation of Results:
 Intercept: The intercept value is 2,134,999.12. the intercept represents the predicted house price when all other features are zero. 
