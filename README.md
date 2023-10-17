@@ -21,7 +21,7 @@ Bathroom Column: Additionally, I filled in missing bathroom values with "1.0."
 Furthermore, I encountered categorical variables in the House Title and Location columns. To handle these categorical variables, I utilized one-hot encoding, converting them into binary columns for each category. This allows me to transform the categorical data into a format that can be effectively used in machine learning models.
 By filling in missing values and applying one-hot encoding to categorical variables, I ensure that the dataset is prepared and suitable for further analysis and model training. These steps contribute to the reliability and accuracy of the models, as well as provide valuable insights for independent exploration and decision-making in the real estate domain.
 
-## Methodology:
+## Methodology
 Based on my comprehensive data exploration, I have identified that all the variables, including location, title, bedroom, bathroom, and parking space, play significant roles in influencing housing prices in Nigeria.
 To predict housing prices, I employed two models, namely Linear Regression and Random Forest. After a thorough evaluation, I found that the Linear Regression model outperformed the Random Forest model in terms of accuracy and overall performance.
 The decision to choose Linear Regression over Random Forest was driven by several factors. First, the Linearity Assumption was met, implying that the relationship between the independent variables and the target variable (housing prices) can be represented by a linear model. This aligns well with the nature of the data, making Linear Regression a suitable choice.
