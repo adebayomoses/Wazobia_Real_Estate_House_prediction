@@ -36,7 +36,7 @@ Title Coefficients: Each "title_" feature represents a specific title type (e.g.
 Bedroom, Bathroom, and Parking Space Coefficients: These coefficients represent the impact of the number of bedrooms, bathrooms, and parking spaces on the house price. The Positive coefficients indicate that an increase in the number of bedrooms, bathrooms, or parking spaces is associated with higher house prices.
 
 
-## Model Training and Evaluation:
+## Model Training and Evaluation:.
 The model's performance was evaluated using a range of performance metrics, including The Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Model Accuracy, R-squared (R^2), and the residual plot.
 By employing these performance metrics, I was able to comprehensively evaluate the model's effectiveness in making accurate predictions. These metrics provided valuable insights into the model's strengths and potential areas for improvement, guiding me in refining the model and optimizing its performance.
 
